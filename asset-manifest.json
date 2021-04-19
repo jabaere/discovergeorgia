@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.057e69a3.chunk.css",
-    "main.js": "/static/js/main.b8322fe7.chunk.js",
-    "main.js.map": "/static/js/main.b8322fe7.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.13688764.js",
-    "runtime-main.js.map": "/static/js/runtime-main.13688764.js.map",
-    "static/js/2.7972f884.chunk.js": "/static/js/2.7972f884.chunk.js",
-    "static/js/2.7972f884.chunk.js.map": "/static/js/2.7972f884.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.057e69a3.chunk.css.map": "/static/css/main.057e69a3.chunk.css.map",
-    "static/js/2.7972f884.chunk.js.LICENSE.txt": "/static/js/2.7972f884.chunk.js.LICENSE.txt",
-    "static/media/styles.css": "/static/media/back3.d52b9529.jpg",
-    "static/media/kazbegi.2e304d2b.jpg": "/static/media/kazbegi.2e304d2b.jpg",
-    "static/media/khevsureti.774013a1.jpg": "/static/media/khevsureti.774013a1.jpg",
-    "static/media/lagodekhi.dcfcf63d.jpg": "/static/media/lagodekhi.dcfcf63d.jpg",
-    "static/media/telavi.3e667c66.jpg": "/static/media/telavi.3e667c66.jpg",
-    "static/media/tusheti.4bff0e22.jpg": "/static/media/tusheti.4bff0e22.jpg"
+    "main.css": "./static/css/main.3882a137.chunk.css",
+    "main.js": "./static/js/main.b8322fe7.chunk.js",
+    "main.js.map": "./static/js/main.b8322fe7.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.9e9d4fae.js",
+    "runtime-main.js.map": "./static/js/runtime-main.9e9d4fae.js.map",
+    "static/js/2.7972f884.chunk.js": "./static/js/2.7972f884.chunk.js",
+    "static/js/2.7972f884.chunk.js.map": "./static/js/2.7972f884.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.3882a137.chunk.css.map": "./static/css/main.3882a137.chunk.css.map",
+    "static/js/2.7972f884.chunk.js.LICENSE.txt": "./static/js/2.7972f884.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "./static/media/back3.d52b9529.jpg",
+    "static/media/kazbegi.2e304d2b.jpg": "./static/media/kazbegi.2e304d2b.jpg",
+    "static/media/khevsureti.774013a1.jpg": "./static/media/khevsureti.774013a1.jpg",
+    "static/media/lagodekhi.dcfcf63d.jpg": "./static/media/lagodekhi.dcfcf63d.jpg",
+    "static/media/telavi.3e667c66.jpg": "./static/media/telavi.3e667c66.jpg",
+    "static/media/tusheti.4bff0e22.jpg": "./static/media/tusheti.4bff0e22.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.13688764.js",
+    "static/js/runtime-main.9e9d4fae.js",
     "static/js/2.7972f884.chunk.js",
-    "static/css/main.057e69a3.chunk.css",
+    "static/css/main.3882a137.chunk.css",
     "static/js/main.b8322fe7.chunk.js"
   ]
 }
