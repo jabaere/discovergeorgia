@@ -1,2 +1,0 @@
-# discovergeorgia
-Created with CodeSandbox
